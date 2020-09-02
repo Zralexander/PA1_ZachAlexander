@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PA1_ZachAlexander/1.0.0": {
+        "runtime": {
+          "PA1_ZachAlexander.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PA1_ZachAlexander/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
